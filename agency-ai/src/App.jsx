@@ -24,7 +24,7 @@ const App=()=>{
     <OurWork/>
     <Teams/>
     <ContactUs/>
-    <Footer theme={theme}/>
+    {/* <Footer theme={theme}/> */}
     
 
    </div>
